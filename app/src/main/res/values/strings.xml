@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColomaRayzaLab1</string>
+    <string name="kuanlin">Kuanlin</string>
+    <string name="location">Location:</string>
+    <string name="distance">Distance from UST:</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
